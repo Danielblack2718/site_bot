@@ -1,0 +1,48 @@
+.div{
+
+    position: relative;
+}
+.div-2 {
+    position: relative;
+    border-radius: 0.75rem;
+    padding: 1rem;
+    width: fit-content;
+    max-width: 80%;
+    margin-bottom: 1rem;
+    margin-left: auto;
+}
+.div-3 {
+    position: absolute;
+    width: max-content;
+    display: none;
+    bottom: 0px;
+    border-radius: 0.25rem;
+    left: 0px;
+    transform: translate(-50%) translateY(50%);
+    box-shadow: #0003 0 0 2px;
+    padding: 0.25rem;
+    z-index: 9999;
+}
+.div-4 {
+    position: relative;
+    border-radius: 0.75rem;
+    padding: 1rem;
+    width: fit-content;
+    max-width: 80%;
+    margin-bottom: 1rem;
+    margin-right: auto;
+}.div-5 {
+     position: absolute;
+     width: max-content;
+     display: none;
+     bottom: 0px;
+     right: 0px;
+     border-radius: 0.25rem;
+     transform: translate(50%) translateY(50%);
+     box-shadow: #0003 0 0 2px;
+     padding: 0.25rem;
+     z-index: 9999;
+ }.svg {
+      height: 1.5rem;
+      width: 1.5rkm;
+  }
